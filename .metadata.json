@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "rjson",
+    "oncran": true
+  }
+]
